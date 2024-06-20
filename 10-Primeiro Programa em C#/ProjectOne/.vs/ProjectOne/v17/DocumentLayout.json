@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\Udemy\\10-Primeiro Programa em C#\\ProjectOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8BF6AC-014B-4A12-8612-A75A6EF02689}|ProjectOne\\ProjectOne.csproj|c:\\users\\felipe.p\\documents\\github\\udemy\\10-primeiro programa em c#\\projectone\\projectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8BF6AC-014B-4A12-8612-A75A6EF02689}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\Udemy\\10-Primeiro Programa em C#\\ProjectOne\\ProjectOne\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\Udemy\\10-Primeiro Programa em C#\\ProjectOne\\ProjectOne\\Program.cs",
+              "RelativeToolTip": "ProjectOne\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:42:36.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
