@@ -1,0 +1,15 @@
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\bin\Debug\net10.0\Produto.exe
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\bin\Debug\net10.0\Produto.deps.json
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\bin\Debug\net10.0\Produto.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\bin\Debug\net10.0\Produto.dll
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\bin\Debug\net10.0\Produto.pdb
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.sourcelink.json
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.dll
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\refint\Produto.dll
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.pdb
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\Produto.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Documentos\Github\Udemy\C# COMPLETO\Seção 4\38. Material de Apoio Capitulo\2. Problema\Produto\Produto\obj\Debug\net10.0\ref\Produto.dll
